@@ -1,6 +1,7 @@
 # Welcome to your Expo app 👋
+![Untitled design](https://github.com/aniketjha9179/paxels/assets/84675061/b8890351-87aa-466a-b060-087a8c53a3e9)
 
-![Uploading Untitled design.png…]()
+
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
